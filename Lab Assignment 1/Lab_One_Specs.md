@@ -4,3 +4,5 @@
 * Know how to use a Snipping Tool
 * Know how to create PDF file from Google Docs
 * You need to to learn these as part of lab assignment.
+
+**Assignment guidelines are found on page 14**
