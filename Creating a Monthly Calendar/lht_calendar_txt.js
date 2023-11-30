@@ -5,8 +5,8 @@
    Tutorial 10
    Tutorial Case
 
-   Author: Jenna Surace
-   Date:  12/6/18
+   Author: 
+   Date:
 
    Filename:   lht_calendar.js  
 
